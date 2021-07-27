@@ -3,3 +3,6 @@ grapes
 watermelon
 mango
 pomogranate
+strawberry
+litchie
+
